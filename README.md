@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Innovative, task-driven professional with 10 years of experience in web development focusing on javascript development.
+Innovative, task-driven professional with 1 years of experience in web development focusing on javascript development.
 Equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation.
 
 * **I am interested in React and Nodejs development**
