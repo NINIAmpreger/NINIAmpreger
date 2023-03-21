@@ -4,17 +4,15 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Innovative, task-driven professional with 10 years of experience in web development focusing on javascript development.
-Equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation.
+Highly experienced Senior Web & ChatGPT Developer with 5+ years in the software development industry. Proven track record of success in creating high-quality web applications and chatbots for a variety of industries. Passionate about utilizing cutting-edge technologies and programming languages to produce innovative solutions that provide maximum value to customers. Skilled in developing, testing and debugging web applications, as well as integrating front-end designs with back-end APIs. Adept at using various software development methodologies, such as Agile and Waterfall, to ensure timely project completion. Committed to delivering exceptional service by meeting client requirements and deadlines. Excellent problem solving skills, with the ability to identify issues quickly and develop cost effective solutions.
 
-* **I am interested in React and Nodejs development**
+* **I am interested in Web Development**
 - 🌱 I’m currently learning ...
   - Java
   - Python
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: http://www.linkedin.com/in/gustavo-iraburo-20758a256/
 
 
 <h2>👀 My github Stats</h2>
