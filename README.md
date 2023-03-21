@@ -1,4 +1,4 @@
-# Hi there 👋, NINI here. 
+# Hi there 👋, Mykhailo Trotsiuk here. 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
